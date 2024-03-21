@@ -1,9 +1,12 @@
 header{
     background-color: #424E61;
-    color: white;
+    color: rgb(255, 255, 255);
 }
   
 body{
     font-family: 'Poppins' ,sans-serif;
 }
 
+body{
+    background-image: linear-gradient(to right, rgb(173, 213, 214), #484d64)
+}
