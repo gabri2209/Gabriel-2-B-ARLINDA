@@ -7,6 +7,15 @@ body{
     font-family: 'Poppins' ,sans-serif;
 }
 
-body{
-    background-image: linear-gradient(to right, rgb(173, 213, 214), #484d64)
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+}
+
+.estudante{
+background-image: darkgrey;
+}
+
+.estudante-icone{
+ width: 100px;
+ height: 100px;
 }
